@@ -14,23 +14,7 @@ PHP 5.5 and later
 ## Installation & Usage
 ### Composer
 
-To install the bindings via [Composer](http://getcomposer.org/), add the following to `composer.json`:
-
-```
-{
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/GIT_USER_ID/GIT_REPO_ID.git"
-    }
-  ],
-  "require": {
-    "GIT_USER_ID/GIT_REPO_ID": "*@dev"
-  }
-}
-```
-
-Then run `composer install`
+run `composer require mrkaminski/haproxy-client-php `
 
 ### Manual Installation
 
